@@ -3,4 +3,4 @@
 ## Running locally
 
 - Run via `docker-compose up -d`
-- Endpoint: hhttp://localhost:5001/
+- Endpoint: http://localhost:5001/
